@@ -1,4 +1,4 @@
-# Decoupled FastAPI serving and downstream processing stack with Apache Kafka.
+# Decoupled FastAPI serving and downstream processing stack with Apache Kafka - Example.
 
 The project contains 2 microservices: **serving service** and **data service** besides a Kafka cluster, and mongodb database.
 
