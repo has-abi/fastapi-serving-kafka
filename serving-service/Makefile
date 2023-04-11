@@ -9,6 +9,7 @@ pipenv-env: ## Create python environment
 .PHONY: install
 install: ## Install project dependencies
 	pipenv install --dev
+	python -m spacy download en_core_web_sm
 
 .PHONY: help
 help:
