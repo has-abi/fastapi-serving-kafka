@@ -92,11 +92,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Segmenter and the classifier models
-models/layout_segmentation/
-models/ner/general_ner*
-models/ner/proexp_splitter*
-
 
 # vscode cache
 .vscode
